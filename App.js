@@ -5,8 +5,7 @@
  */
 
 import React, { Component } from 'react';
-import {
-  Platform,
+import {Platform,
   StyleSheet,
   Text,
   View
